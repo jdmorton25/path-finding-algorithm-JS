@@ -1,5 +1,5 @@
 # path-finding-algorithm-JS
-A*(A Star) Algorithm is written on JavaScript
+A*(A Star) Algorithm is written in JavaScript
 
 Path Finding Algorithm.<br/>
 
