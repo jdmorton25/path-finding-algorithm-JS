@@ -1,4 +1,4 @@
-# path-finding-algorithm-JS
+# path-finding-algorithm
 A*(A Star) Algorithm is written in JavaScript
 
 Path Finding Algorithm.<br/>
